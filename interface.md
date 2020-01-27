@@ -182,7 +182,7 @@ func f(out io.Writer) {
 
   ( 집합에서 `공집합`과 `공집합을 원소로 갖는 집합`이 다르듯이! )
 
-  <img src="/images/go-interface2" alt="go-interface2" style="zoom:50%;"/>
+  <img src="/images/go-interface2.png" alt="go-interface2" style="zoom:50%;"/>
 
 
 
