@@ -4,3 +4,4 @@
 
 ### 5. function
 ### 6. [Method](https://github.com/ina-uzu/uzu-go-master/blob/master/method.md)
+### 7. [Interface](https://github.com/ina-uzu/uzu-go-master/blob/master/interface.md)
